@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: LAB3
 permalink: /about/
 ---
 
-Some information about you!
+Lab3 here
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Lab3 here
 
 ### Contact me
 
